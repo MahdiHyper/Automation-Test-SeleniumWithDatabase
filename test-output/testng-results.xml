@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-10T19:18:40 EET" name="Default suite" finished-at="2025-12-10T19:18:58 EET" duration-ms="17792">
+    <groups>
+    </groups>
+    <test started-at="2025-12-10T19:18:40 EET" name="Default test" finished-at="2025-12-10T19:18:58 EET" duration-ms="17792">
+      <class name="Main.MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:Main.MyTestCases@23bff419]" started-at="2025-12-10T19:18:40 EET" name="mySetup" finished-at="2025-12-10T19:18:50 EET" duration-ms="9194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="UpdateTheData()[pri:0, instance:Main.MyTestCases@23bff419]" started-at="2025-12-10T19:18:50 EET" name="UpdateTheData" finished-at="2025-12-10T19:18:56 EET" duration-ms="6498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateTheData -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:Main.MyTestCases@23bff419]" started-at="2025-12-10T19:18:56 EET" name="exit" finished-at="2025-12-10T19:18:58 EET" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- Main.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
